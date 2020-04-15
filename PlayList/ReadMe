@@ -1,0 +1,5 @@
+This was a group java programming project that I completed in Semester Two of First Year.
+The project consists of two classes and a driver.
+The Track class stores information relating to each track.
+The PlayList class creates a playlist and manipulates the track objects.
+The driver file supplied can be used to see the project in operation
