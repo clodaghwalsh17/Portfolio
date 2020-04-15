@@ -1,0 +1,9 @@
+Overview
+Allazar is a game that myself and my group produced as a project for the games module in Semester Two of First Year.
+Allazar is a laser game coded in the lua scripting language and run on the Corona Game Engine.
+
+The Game and How to Play
+The player has full control over a crystal which they can move across the x-axis.
+The aim of the game is to position the crystal in the correct position and use the mouse to emitt a photon of light which will be 
+reflected by the reflectors to the endgate.
+Upon reaching the endgate the player progresses to the next level
