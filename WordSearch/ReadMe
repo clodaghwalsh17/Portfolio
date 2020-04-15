@@ -1,0 +1,4 @@
+This was a group java programming assigment which I completed in Semester Two of First Year.
+The project consists of a .java file of methods that allow for the creation of the word search puzzle,the formatting of the puzzle, 
+the allocation of words to be used in the puzzle, and display options.
+This project includes a file reader to select words to be used in the puzzle.
