@@ -18,7 +18,7 @@ In this project users can create a customised story based off their responses to
 	**Note:** These `jar`files are included in the repository and are up to date as of release of the project
 - Run `MyStory.java`and follow in application instructions
 
-## About
+## Project Details
 This project was undertaken with the aim of better understanding  I/O and to implement  basic OOP concepts.
 
 The project is reliant on the built-in Java I/O package, as well as the Apache PDFBox library. Since Java has no built- in support for PDFs is was necessary to use an external library. The Apache PDFBox library created the PDF itself, while the built-in Java I/O package was required to read in the story template.  `java.io.InputStreamReader` in combination with `java.io.BufferedReader`was used to accept user input. In certain instances the Scanner class, part of the `java.util`package, was preferable for accepting user input. 
