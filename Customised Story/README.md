@@ -5,12 +5,12 @@ In this project users can create a customised story based off their responses to
 ## Setup
 - Download or clone the project
 - Configure a path for the following external Java libraries according to your IDE
--- `commons-logging.jar`
--- `fontbox.jar`
--- `pdfbox.jar`
--- `pdfbox-tools.jar`
---`preflight.jar`
--- `xmpbox.jar`
+	- `commons-logging.jar`
+	- `fontbox.jar`
+	- `pdfbox.jar`
+	- `pdfbox-tools.jar`
+	- `preflight.jar`
+	- `xmpbox.jar`
 
 	Click here to download the most recent version of [PDFBox](https://pdfbox.apache.org/download.cgi#20x ) and [Apache Commons Logging](
  https://commons.apache.org/proper/commons-logging/download_logging.cgi)    
